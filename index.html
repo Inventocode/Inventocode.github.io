@@ -27,15 +27,15 @@ layout: default
 	resultsContainer: document.getElementById('results-container'),
 	json: '{{ site.baseurl }}/search.json',
 	searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
-	noResultsText: 'No results found',
+	noResultsText: '找不到相关博客',
 	limit: 10,
 	fuzzy: false,
-	exclude: ['Welcome']
+	exclude: ['欢迎']
   })
 </script>
- 
+
 {% if site.posts.size == 0 %}
-  <h2>No post found</h2>
+  <h2>没有博客</h2>
 {% endif %}
 
 <div class="posts">
