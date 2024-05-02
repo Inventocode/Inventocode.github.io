@@ -68,6 +68,7 @@ gitalk:
   clientSecret: 8386fb1106499c10a7412de7e3fee56591fc6106
   repo: Inventocode.github.io
   owner: Inventocode
+  proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
