@@ -63,6 +63,7 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
+  rpoxy: https://vercel.prohibitorum.top/github_access_token
   clientID: 0f5f734c92e02d095b45
   clientSecret: 8386fb1106499c10a7412de7e3fee56591fc6106
   repo: Inventocode.github.io
