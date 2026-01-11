@@ -6,7 +6,14 @@ permalink: /about/
 
 你好，我是Inventocode。
 
-一路陪伴，一路成长，一路记录，一路思考，欢迎扫码添加：
+---
 
-![公众号二维码](https://raw.githubusercontent.com/Inventocode/Inventocode.github.io/master/images/qrcode.jpg)
+邮箱：inventocode@qq.com
 
+Github：[Inventocode](https://www.zhihu.com/people/inventocode)
+
+QQ：359148497
+
+哔哩哔哩: [Inventocode](https://space.bilibili.com/3493113924422334)
+
+知乎：[Inventocode](https://www.zhihu.com/people/inventocode)
